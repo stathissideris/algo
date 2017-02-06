@@ -1,0 +1,4 @@
+* Planning algorithms
+**  Reading list
+   - [[http://homepage.cs.uiowa.edu/~hzhang/c145/notes/11-planning-6p.pdf][Overview of planning, and planning in Prolog (PDF)]]
+   * Foo
