@@ -1,4 +1,9 @@
 * Planning algorithms
 **  Reading list
    - [[http://homepage.cs.uiowa.edu/~hzhang/c145/notes/11-planning-6p.pdf][Overview of planning, and planning in Prolog (PDF)]]
-   * Foo
+   - Prolog is useful for planning:
+     * [[http://www.swi-prolog.org/pldoc/man?section=lists][Lists documentation]]
+     * [[http://www.swi-prolog.org/pldoc/doc/swi/library/lists.pl?show=src][Lists source]]
+   - STRIPS is an important representation in planning:
+     - http://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/
+     - http://www.dis.uniroma1.it/~degiacom/didattica/dottorato-stavros-vassos/
